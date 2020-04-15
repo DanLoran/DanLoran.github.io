@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daniel Loran -- Homepage
+title: Daniel Loran's Homepage
 subtitle: My website about my journey into the fields of parallel computing and artificial intelligence
 ---
 
