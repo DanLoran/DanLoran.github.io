@@ -22,7 +22,7 @@ description: A introduction to me and what I've been working on
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  Transcript: "DLoranUGTranscript"
+  Transcript: "https://github.com/DanLoran/DanLoran.github.io/raw/master/DLoranUGTranscript.pdf"
   Active Projects: "activeproj"
   Old Projects: "oldproj"
 
