@@ -21,7 +21,7 @@ description: A introduction to me and what I've been working on
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "resume"
+  Resume: "https://github.com/DanLoran/DanLoran.github.io/raw/master/DLoran%202020%20Resume.pdf"
   Transcript (PDF): "https://github.com/DanLoran/DanLoran.github.io/raw/master/DLoranUGTranscript.pdf"
   Active Projects: "activeproj"
   Old Projects: "oldproj"
