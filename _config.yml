@@ -22,8 +22,9 @@ description: A introduction to me and what I've been working on
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  Github: "https://github.com/DanLoran"
-  LinkedIn: "https://www.linkedin.com/in/daniel-loran-69bb1b132/"
+  Transcript: "DLoranUGTranscript"
+  Active Projects: "activeproj"
+  Old Projects: "oldproj"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -67,12 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "dcloran@ucdavis.edu"
 #  facebook: deanattali
   github: DanLoran
 #  twitter: daattali
 #  reddit: yourname
-  linkedin: daattali
+  linkedin: daniel-loran-69bb1b132
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
