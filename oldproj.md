@@ -1,1 +1,1 @@
-filler text for old projects page
+Haven't written anything about any specific projects yet, but please see my github for access to all of my public projects!
